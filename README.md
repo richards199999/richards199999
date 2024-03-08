@@ -15,4 +15,4 @@ I'm a 16-year-old student, with a keen interest in AI, astronomy, and the Marvel
 ## Fun Fact
 I love cat.🐈
 
-[![Richards's github stats](https://github-readme-stats.vercel.app/api?username=richards199999)]
+![Richards's github stats](https://github-readme-stats.vercel.app/api?username=richards199999)
