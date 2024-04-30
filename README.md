@@ -1,4 +1,4 @@
-# Hi there, I'm Richards Tu 👋
+# 👋 Hi there, I'm Richards Tu
 
 ## About Me
 I'm a 17-year-old student, with a keen interest in AI, astronomy, and the Marvel Universe.
