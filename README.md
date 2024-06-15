@@ -9,10 +9,6 @@ I'm a 17-year-old student. Building something magic @ECIC-Space ...
 - **Marvel Comics and Movies**: A huge fan of Marvel's superheroes, their stories inspire me to be courageous and innovative.
 - **I love cat. 🐈**
 
-## Let's Connect!
-- GitHub: [@richards199999](https://github.com/richards199999)
-- X (Twitter): [@richards_19999](https://twitter.com/richards_19999)
-
 ---
 
 I believe AGI would benefit us all. Wagmi!
