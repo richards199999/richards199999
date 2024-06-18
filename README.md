@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Richards Tu
 
 ## About Me
-I'm a 17-year-old student. Building something magic @ECIC-Space ...
+I'm a 17-year-old student. Building something magic ...
 
 ## My Interests
 - **AI**: Fascinated by the potential of AGI to transform our world, I'm constantly exploring the latest developments and dreaming up new projects.
